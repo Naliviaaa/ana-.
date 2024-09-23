@@ -8,3 +8,8 @@ function areaquadrado(lado){
     return lado**2;
 }
 console.log(areaquadrado(5));
+
+let areatriangulo = function (parametros){
+    return lado**3;
+}
+console.log(areaquadrado(3));
