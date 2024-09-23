@@ -1,5 +1,6 @@
-// alert('ana lívia e matheus')
+// alert ('test')
+// alert('ana lívia e ana clara')
 function soma (num1,num2){
     return num1+num2;
 }
-soma (2,3)
+soma (2,3);
