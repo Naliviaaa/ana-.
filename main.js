@@ -13,3 +13,6 @@ let areatriangulo = function (base, altura) {
     return (base * altura)/2;
 }
 console.log(areaquadrado(5, 5));
+
+let nome= prompt ('escolha 3 numeros para obter uma média');
+document.write(nome);
