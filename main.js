@@ -9,7 +9,7 @@ function areaquadrado(lado){
 }
 console.log(areaquadrado(5));
 
-let areatriangulo = function (3,3){
-    return lado**3;
+let areatriangulo = function (base,altura){
+    return base*altura/2;
 }
-console.log(areaquadrado(3));
+console.log(areaquadrado(5,3));
