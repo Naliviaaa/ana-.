@@ -3,5 +3,8 @@
 function soma (num1,num2){
     return num1+num2;
 }
-soma (2,3);
 console.log(soma(3,5));
+function areaquadrado(lado){
+    return lado**5;
+}
+console.log(areaquadrado(5));
