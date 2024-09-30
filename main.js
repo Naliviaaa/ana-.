@@ -29,4 +29,5 @@
 //}
 // document.write(media(num1,num2.num3));
 
-let estado= ['paraná','são paulo','minas gerais','rio de janeiro','santa catarina','rio grande do sul','espirito santo']
+let estado= ['paraná','são paulo','minas gerais','rio de janeiro','santa catarina','rio grande do sul','espirito santo','acre','alagoas','amapa','amazonas','bahia','ceara','alagoas','maranhão','mato grosso','mato grosso do sul','minas gerais','paraiba','rondonia','roraima','sergipe','tocantins','pernambuco','piaui','rio grande do norte','distrito federal']
+
