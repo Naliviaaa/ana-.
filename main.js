@@ -1,22 +1,32 @@
 // alert ('test')
-// alert('ana lívia e ana clara')
-function soma(num1, num2) {
-    return num1 + num2;
-}
-console.log(soma(3, 5));
-function areaquadrado(lado) {
-    return lado ** 2;
-}
-console.log(areaquadrado(5));
+// alert('ana lívia e MATHEUS')
+//function soma(num1, num2) {
+//return num1 + num2;
+//}
+//soma(2, 3);
+//console.log(soma(3, 5));
 
-let areatriangulo = function (base, altura) {
-    return (base * altura)/2;
-}
-console.log(areaquadrado(5, 5));
+//function areaquadrado(lado) {
+//    return lado ** 2;
+//}
+//console.log(areaquadrado(5));
 
-let nome= parseInt(prompt('qual é seu numero?'));
-let nome2= parseInt(prompt('qual é seu numero'));
-let nome3= parseInt(prompt('numero do responsavel'));
-Function 'Media'(valor1, valor2, valor3){
-return (valor1+valor2+valor3)/3;
-}
+//let areatriangulo = function (base, altura) {
+//    return (base * altura)/2;
+//}
+//console.log(areaquadrado(5, 5));
+
+//let ana=prompt('escolha 3 números para obter uma média:');
+//document.write('1,2,3');
+
+//let nome= parseInt(prompt('1'));
+//let nome2= parseInt(prompt('2'));
+//let nome3= parseInt(prompt('3'));
+
+//Function Media(x,y,z){
+//return (x+y+z)/3;
+
+//}
+// document.write(media(num1,num2.num3));
+
+let estado= ['paraná','são paulo','minas gerais','rio de janeiro','santa catarina','rio grande do sul','espirito santo']
