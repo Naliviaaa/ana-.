@@ -35,5 +35,6 @@ let i=0;
 while(i<estado.length){
     console.log(i)
     console.log(estado[1]);
+    i++;
 }
 
