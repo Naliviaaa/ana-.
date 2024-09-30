@@ -29,12 +29,12 @@
 //}
 // document.write(media(num1,num2.num3));
 
-let estado= ['paraná','são paulo','minas gerais','rio de janeiro','santa catarina','rio grande do sul','espirito santo','acre','alagoas','amapa','amazonas','bahia','ceara','alagoas','maranhão','mato grosso','mato grosso do sul','minas gerais','paraiba','rondonia','roraima','sergipe','tocantins','pernambuco','piaui','rio grande do norte','distrito federal']
+let estados= ['paraná','são paulo','minas gerais','rio de janeiro','santa catarina','rio grande do sul','espirito santo','acre','alagoas','amapa','amazonas','bahia','ceara','alagoas','maranhão','mato grosso','mato grosso do sul','minas gerais','paraiba','rondonia','roraima','sergipe','tocantins','pernambuco','piaui','rio grande do norte','distrito federal']
 
 let i=0;
-while(i<estado.length){
+while(i<estados.length){
     console.log(i);
-    console.log(estado[i]);
+    console.log(estados[i]);
     i++;
 }
 let idade= parseInt(prompt('qual a sua idade?'))
@@ -44,6 +44,6 @@ if (idade >17){
 else{
     console.log('ilegal dirigir');
 }
-for (let i =0;i,estado.length;i++){
-    console.log(estados[1]);
+for (let i =0;i,estados.length;i++){
+    console.log(estados[i]);
 }
