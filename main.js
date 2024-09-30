@@ -17,6 +17,6 @@ console.log(areaquadrado(5, 5));
 let nome= parseInt(prompt('qual é seu numero?'));
 let nome2= parseInt(prompt('qual é seu numero'));
 let nome3= parseInt(prompt('numero do responsavel'));
-Function Media(valor1, valor2, valor3){
+Function 'Media'(valor1, valor2, valor3){
 return (valor1+valor2+valor3)/3;
 }
