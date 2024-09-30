@@ -34,7 +34,7 @@ let estado= ['paraná','são paulo','minas gerais','rio de janeiro','santa catar
 let i=0;
 while(i<estado.length){
     console.log(i);
-    console.log(estado[1]);
+    console.log(estado[i]);
     i++;
 }
 
