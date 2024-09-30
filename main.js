@@ -31,4 +31,9 @@
 
 let estado= ['paraná','são paulo','minas gerais','rio de janeiro','santa catarina','rio grande do sul','espirito santo','acre','alagoas','amapa','amazonas','bahia','ceara','alagoas','maranhão','mato grosso','mato grosso do sul','minas gerais','paraiba','rondonia','roraima','sergipe','tocantins','pernambuco','piaui','rio grande do norte','distrito federal']
 
+let i=0;
+while(i<estado.length){
+    console.log(i)
+    console.log(estado[1]);
+}
 
